@@ -11,7 +11,6 @@ externals:
     libs/AceDBOptions-3.0: https://repos.wowace.com/wow/ace3/trunk/AceDBOptions-3.0
     libs/LibCandyBar-3.0: https://repos.wowace.com/wow/libcandybar-3-0/trunk/LibCandyBar-3.0
     libs/LibSharedMedia-3.0: https://repos.wowace.com/wow/libsharedmedia-3-0/trunk/LibSharedMedia-3.0
-    libs/LibChatAnims: https://repos.wowace.com/wow/libchatanims/trunk/LibChatAnims
     libs/LibLatency: https://repos.wowace.com/wow/liblatency/trunk/LibLatency
     libs/LibDurability: https://repos.wowace.com/wow/libdurability/trunk/LibDurability
     libs/LibDDI-1.0: https://repos.wowace.com/wow/libddi-1-0/trunk

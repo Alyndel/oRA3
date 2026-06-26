@@ -14,7 +14,6 @@
 <Include file="libs\AceDBOptions-3.0\AceDBOptions-3.0.xml"/>
 <Include file="libs\LibCandyBar-3.0\lib.xml"/>
 <Include file="libs\LibSharedMedia-3.0\lib.xml"/>
-<Include file="libs\LibChatAnims\LibChatAnims.xml"/>
 <Include file="libs\LibLatency\LibLatency.xml"/>
 <Include file="libs\LibDurability\LibDurability.xml"/>
 <Include file="libs\LibDDI-1.0\lib.xml"/>
