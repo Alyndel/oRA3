@@ -33,6 +33,9 @@ local active = {
 	[14] = true, -- Normal
 	[15] = true, -- Heroic
 	[16] = true, -- Mythic
+	[17] = true, -- Looking For Raid
+	[33] = true, -- Timewalking (Raid)
+	[233] = true, -- Mythic (Flexible 15-25 player raids)
 }
 
 local function createFrame()
